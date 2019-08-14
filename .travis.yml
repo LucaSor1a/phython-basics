@@ -3,6 +3,7 @@ python:
   - "3.6"
 script:
   - coverage run test_roman_numbers.py
+  - coverage run test_pipe_fixer.py
 
 install:
   - pip install -r requirements.txt
