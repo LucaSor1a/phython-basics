@@ -9,4 +9,3 @@ install:
 ​
 after_success:
   - coveralls
-
